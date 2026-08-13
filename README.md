@@ -1,6 +1,5 @@
 # mbentley/nextcloud-notify_push
 
-
 ## Run Example
 
 ```bash
