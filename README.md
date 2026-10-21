@@ -8,7 +8,7 @@ docker run -d \
   --restart unless-stopped \
   -e LOG="info" \
   --mount type=bind,source=/nextcloud/config,destination=/nextcloud/config,readonly=true \
-  mbentley/nextcloud-notify_push:v1.1.1 \
+  mbentley/nextcloud-notify_push:v1.4.2 \
     /nextcloud/config/config.php
 ```
 
